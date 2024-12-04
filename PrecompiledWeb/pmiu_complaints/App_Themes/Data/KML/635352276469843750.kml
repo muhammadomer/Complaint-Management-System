@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<name>KmlFile</name>
+<StyleMap id="StyleChannelLine">
+<Pair>
+<key>normal</key>
+<Style>
+<LineStyle>
+<color>7fff00ff</color>
+<width>2</width>
+</LineStyle>
+<PolyStyle>
+<color>7f00ff00</color>
+</PolyStyle>
+</Style>
+</Pair>
+<Pair>
+<key>highlight</key>
+<Style>
+<LineStyle>
+<color>ff8888ff</color>
+<width>3</width>
+</LineStyle>
+<PolyStyle>
+<color>ff8888ff</color>
+</PolyStyle>
+</Style>
+</Pair>
+</StyleMap>
+<Placemark>
+<name>Bucherkana Disty Reverse</name>
+<visibility>1</visibility>
+<description><![CDATA[
+<b>Channel:</b> Bucherkana Disty Reverse<br>
+]]></description>
+<styleUrl>#StyleChannelLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>
+ 74.63921215,31.45588716,0 74.63764543,31.45459669,0 74.63571967,31.45379510,0 74.62672966,31.45095215,0 74.61966594,31.44884920,0 74.60712345,31.44164620,0 74.58482090,31.42920528,0 74.58012553,31.42656665,0 74.57944743,31.42590077,0 74.57769106,31.42406328,0 74.57544138,31.42179940,0 74.57494692,31.42161194,0 74.56637688,31.42054791,0 74.55864184,31.41969857,0 74.55422749,31.41917012,0 74.54905104,31.41855023,0 74.53553136,31.41696226,0 74.52903441,31.41624834,0 74.52458801,31.41405512,0 74.51625215,31.40982960,0 74.50884278,31.40613802,0 74.50792387,31.40580844,0 74.50792197,31.40580776,0  
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>High Level Gohawa mr.  "  "</name>
+<visibility>1</visibility>
+<description><![CDATA[
+<b>Channel:</b> High Level Gohawa mr.  "  "<br>
+]]></description>
+<styleUrl>#StyleChannelLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>
+ 74.50302195,31.57920293,0 74.50144360,31.57787232,0 74.50083524,31.57728544,0 74.49720717,31.56560841,0 74.49587735,31.56184142,0 74.49469236,31.55828529,0 74.49405474,31.55818634,0 74.49266402,31.55851833,0 74.48993930,31.55910214,0 74.48868038,31.55935426,0 74.48749828,31.55928524,0 74.48680621,31.55884853,0 74.48552059,31.55712369,0 74.48075558,31.54956704,0 74.47813941,31.54520361,0  
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Kohali Disty of BRBD Link</name>
+<visibility>1</visibility>
+<description><![CDATA[
+<b>Channel:</b> Kohali Disty of BRBD Link<br>
+]]></description>
+<styleUrl>#StyleChannelLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>
+ 74.50537920,31.49629259,0 74.51826886,31.50528640,0 74.52446956,31.50940335,0 74.52660209,31.51094642,0  
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Lahore Branch of BRBD Link.</name>
+<visibility>1</visibility>
+<description><![CDATA[
+<b>Channel:</b> Lahore Branch of BRBD Link.<br>
+]]></description>
+<styleUrl>#StyleChannelLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>
+ 74.50124121,31.58682490,0 74.48869101,31.58407857,0 74.47587997,31.58148451,0 74.46147799,31.57877195,0 74.45068891,31.57655231,0 74.43591645,31.57349251,0 74.43469980,31.57324042,0 74.41974254,31.57026281,0 74.41226440,31.56875494,0 74.40311093,31.56683354,0 74.39576124,31.56550951,0 74.39039033,31.56430505,0 74.38085077,31.56234338,0 74.37281605,31.56060945,0 74.36963806,31.55970959,0 74.36744996,31.55877772,0 74.36517586,31.55784538,0 74.36277548,31.55650710,0 74.36024862,31.55479972,0 74.35866118,31.55354935,0 74.35836567,31.55331658,0 74.35563197,31.55042910,0 74.35003779,31.54439543,0 74.34111317,31.53491803,0 74.33304294,31.52651290,0 74.32703107,31.52006700,0 74.32689650,31.51992270,0 74.32152020,31.51399946,0 74.31221729,31.50411277,0 74.30338546,31.49474377,0 74.29983934,31.49170331,0 74.29637752,31.48892111,0 74.29325457,31.48684071,0 74.28738928,31.48356602,0 74.28417568,31.48214807,0 74.28109171,31.48065707,0 74.27688788,31.47945442,0 74.27569409,31.47907590,0 74.27345708,31.47836656,0 74.27063477,31.47766942,0 74.26689232,31.47674490,0 74.25161396,31.47352487,0 74.24183847,31.47116506,0  
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Shalamar ditsy of BRBD Link.</name>
+<visibility>1</visibility>
+<description><![CDATA[
+<b>Channel:</b> Shalamar ditsy of BRBD Link.<br>
+]]></description>
+<styleUrl>#StyleChannelLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>
+ 74.50117551,31.58709006,0 74.48861546,31.58434141,0 74.47580961,31.58174840,0 74.46140708,31.57903573,0 74.45061480,31.57681543,0 74.43462683,31.57350378,0 74.41967050,31.57052635,0 74.41219052,31.56901811,0 74.40621364,31.56776359,0  
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Tehera disty of BRBD Link.</name>
+<visibility>1</visibility>
+<description><![CDATA[
+<b>Channel:</b> Tehera disty of BRBD Link.<br>
+]]></description>
+<styleUrl>#StyleChannelLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>
+ 74.50128845,31.58663420,0 74.49970686,31.58621215,0 74.49829562,31.58573918,0 74.49682337,31.58548366,0 74.49080866,31.58421760,0 74.48547383,31.58312688,0 74.47557849,31.58120623,0 74.47169825,31.57602066,0 74.47029480,31.57422193,0 74.47004271,31.56942482,0 74.44901717,31.56624835,0  
+</coordinates>
+</LineString>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<name>KmlFile</name>
+<StyleMap id="StyleChannelLine">
+<Pair>
+<key>normal</key>
+<Style>
+<LineStyle>
+<color>7fff00ff</color>
+<width>2</width>
+</LineStyle>
+<PolyStyle>
+<color>7f00ff00</color>
+</PolyStyle>
+</Style>
+</Pair>
+<Pair>
+<key>highlight</key>
+<Style>
+<LineStyle>
+<color>ff8888ff</color>
+<width>3</width>
+</LineStyle>
+<PolyStyle>
+<color>ff8888ff</color>
+</PolyStyle>
+</Style>
+</Pair>
+</StyleMap>
+<Placemark>
+<name>1-L/4-L Minor</name>
+<visibility>1</visibility>
+<description><![CDATA[
+<b>Channel:</b> 1-L/4-L Minor<br>
+<b>Flow Type:</b> Non Perennial<br>
+<b>Channel Type:</b> Minor<br>
+<b>Designed Discharge:</b> 50.00 cusecs<br>
+<b>Auth. Tail Discharge:</b> 2.17 cusecs <br>
+<b>Auth. Tail Gauge:</b> 0.70 ft<br>
+<b>Tail RD:</b> 28600.00 canal feet<br>
+<b>Length:</b> 5.72 canal miles<br>
+<b>Total Complaints:</b> 38<br>
+<b>Resolved Complaints:</b> 34
+ ( 89% )<br>
+]]></description>
+<styleUrl>#StyleChannelLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>
+ 71.49167114,29.27700083,0 71.49351056,29.27441645,0 71.49353777,29.27437822,0 71.49455938,29.27294279,0 71.49433091,29.27018977,0 71.49427996,29.26957579,0 71.49408259,29.26533709,0 71.49398743,29.26329344,0 71.49383738,29.26119707,0 71.49380970,29.26081029,0 71.49364359,29.25848958,0 71.49303453,29.24998031,0 71.49303325,29.24996232,0 71.49276688,29.24624074,0 71.49268336,29.24476212,0 71.49268081,29.24471711,0 71.49261929,29.24362791,0 71.49252573,29.24197160,0 71.49246369,29.24087339,0 71.49220945,29.23637256,0 71.49205284,29.23360005,0 71.49205030,29.23355504,0 71.49204878,29.23352803,0 71.49192419,29.23132244,0 71.49154391,29.23096829,0 71.48892325,29.22852764,0 71.48840900,29.22804869,0 71.48788450,29.22756019,0 71.48530944,29.22528728,0 71.48202148,29.22238490,0 71.47900022,29.21971774,0 71.47798351,29.21881501,0 71.47617837,29.21721218,0 71.47582457,29.21689803,0 71.47550214,29.21661173,0 71.47328890,29.21489801,0 71.47226529,29.21410541,0 71.46617744,29.20934978,0 71.46555361,29.20888567,0 71.46551443,29.20885653,0  
+</coordinates>
+</LineString>
+</Placemark>
+</Document>
+</kml>

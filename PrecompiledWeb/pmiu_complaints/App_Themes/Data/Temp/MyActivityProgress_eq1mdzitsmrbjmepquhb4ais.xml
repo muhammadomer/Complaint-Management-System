@@ -1,0 +1,5 @@
+<?xml version="1.0" ?>
+<graph  xaxisname='Date' yaxisname='Complaints' hovercapbg='DEDEBE' hovercapborder='889E6D' rotateNames='1' numdivlines='9' divLineColor='CCCCCC' divLineAlpha='80' decimalPrecision='0' showAlternateHGridColor='1' AlternateHGridAlpha='30' AlternateHGridColor='CCCCCC'>
+<categories font='Arial' fontSize='11' fontColor='000000'>
+</categories>
+</graph>

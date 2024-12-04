@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<graph showNames="1" xAxisName="Date" yAxisName="Discharge" decimalPrecision="0" formatNumberScale="0"  ChartNoDataText='No data to display.' yAxisMinValue="0">
+<set name="14" value="40.00" color="336699"/>
+<set name="16" value="40.00" color="336699"/>
+<set name="17" value="40.00" color="336699"/>
+<set name="18" value="40.00" color="336699"/>
+<set name="19" value="40.00" color="336699"/>
+<set name="20" value="40.00" color="336699"/>
+<set name="21" value="40.00" color="336699"/>
+<set name="22" value="40.00" color="336699"/>
+<set name="23" value="40.00" color="336699"/>
+<set name="24" value="40.00" color="336699"/>
+</graph>

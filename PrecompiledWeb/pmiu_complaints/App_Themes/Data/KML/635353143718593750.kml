@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<name>KmlFile</name>
+<StyleMap id="StyleChannelLine">
+<Pair>
+<key>normal</key>
+<Style>
+<LineStyle>
+<color>7fff00ff</color>
+<width>2</width>
+</LineStyle>
+<PolyStyle>
+<color>7f00ff00</color>
+</PolyStyle>
+</Style>
+</Pair>
+<Pair>
+<key>highlight</key>
+<Style>
+<LineStyle>
+<color>ff8888ff</color>
+<width>3</width>
+</LineStyle>
+<PolyStyle>
+<color>ff8888ff</color>
+</PolyStyle>
+</Style>
+</Pair>
+</StyleMap>
+</Document>
+</kml>

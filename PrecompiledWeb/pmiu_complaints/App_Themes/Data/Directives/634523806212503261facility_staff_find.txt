@@ -1,0 +1,5 @@
+select *
+from tbl_facility_temp
+where district like '%layyah%'
+--and facilityName like '%shah%'
+order by district, facilityName, facilitytype

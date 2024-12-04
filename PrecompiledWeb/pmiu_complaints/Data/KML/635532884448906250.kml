@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<name>KmlFile</name>
+<StyleMap id="StyleChannelLine">
+<Pair>
+<key>normal</key>
+<Style>
+<LineStyle>
+<color>7fff00ff</color>
+<width>4</width>
+</LineStyle>
+<PolyStyle>
+<color>7f00ff00</color>
+</PolyStyle>
+</Style>
+</Pair>
+<Pair>
+<key>highlight</key>
+<Style>
+<LineStyle>
+<color>ff8888ff</color>
+<width>3</width>
+</LineStyle>
+<PolyStyle>
+<color>ff8888ff</color>
+</PolyStyle>
+</Style>
+</Pair>
+</StyleMap>
+<Placemark>
+<visibility>1</visibility>
+<description><![CDATA[
+<b>Channel:</b> Thatta Bulera minor of Vahn Dy:<br>
+]]></description>
+<styleUrl>#StyleChannelLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>
+ 73.80626541,30.99050109,0 73.80395246,30.98987515,0 73.79160593,30.98277681,0 73.78583812,30.97927754,0 73.77199896,30.97123640,0 73.76833499,30.96925613,0  
+</coordinates>
+</LineString>
+</Placemark>
+</Document>
+</kml>

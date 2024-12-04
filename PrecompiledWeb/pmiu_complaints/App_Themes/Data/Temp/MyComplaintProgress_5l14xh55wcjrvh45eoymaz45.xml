@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<graph showNames="1" decimalPrecision="0" formatNumberScale="0"  ChartNoDataText='No data to display.'>
+<set name="New" value="0" isSliced="1" color="ff3333"/>
+<set name="Inbox" value="6995" color="ff6633"/>
+<set name="InProgress" value="67929"  color="0066ff"/>
+<set name="Resolved" value="150116" color="00ff33"/>
+</graph>

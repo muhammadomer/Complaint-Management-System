@@ -1,0 +1,72 @@
+<?xml version="1.0"?>
+<graph  xaxisname='Type' yaxisname='Complaints' hovercapbg='DEDEBE' hovercapborder='889E6D' rotateNames='1' numdivlines='9' divLineColor='CCCCCC' divLineAlpha='80' decimalPrecision='0' showAlternateHGridColor='1' AlternateHGridAlpha='30' AlternateHGridColor='CCCCCC'>
+<categories font='Arial' fontSize='11' fontColor='000000'>
+<category name='Breach_of_Channel' />
+<category name='Corruption' />
+<category name='Desilting_Channel' />
+<category name='Development_Work' />
+<category name='Discharge_Table' />
+<category name='Dry_Tail' />
+<category name='Excessive Tail' />
+<category name='Excessive_Head' />
+<category name='Gauge_Missing' />
+<category name='Head_Gauge_Missing' />
+<category name='Head_Short' />
+<category name='Missing_RD_Marks' />
+<category name='Not Specified' />
+<category name='NotSpecified' />
+<category name='Others' />
+<category name='Rotational_Program' />
+<category name='Tail_Gauge_Missing' />
+<category name='Tail_Short' />
+<category name='Tail_Structure' />
+<category name='Water Theft' />
+<category name='Water_Course_Tempering' />
+</categories>
+<dataset seriesName='Resolved' color='FDC12E'>
+<set value='0' />
+<set value='0' />
+<set value='0' />
+<set value='0' />
+<set value='0' />
+<set value='0' />
+<set value='0' />
+<set value='0' />
+<set value='0' />
+<set value='0' />
+<set value='0' />
+<set value='0' />
+<set value='0' />
+<set value='0' />
+<set value='0' />
+<set value='0' />
+<set value='0' />
+<set value='0' />
+<set value='0' />
+<set value='0' />
+<set value='0' />
+</dataset>
+<dataset seriesName='Active' color='56B9F9'>
+<set value='0' />
+<set value='1' />
+<set value='0' />
+<set value='0' />
+<set value='0' />
+<set value='4' />
+<set value='0' />
+<set value='0' />
+<set value='0' />
+<set value='0' />
+<set value='0' />
+<set value='0' />
+<set value='0' />
+<set value='0' />
+<set value='1' />
+<set value='1' />
+<set value='0' />
+<set value='8' />
+<set value='0' />
+<set value='21' />
+<set value='1' />
+</dataset>
+</graph>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<name>KmlFile</name>
+<StyleMap id="StyleChannelLine">
+<Pair>
+<key>normal</key>
+<Style>
+<LineStyle>
+<color>7fff00ff</color>
+<width>2</width>
+</LineStyle>
+<PolyStyle>
+<color>7f00ff00</color>
+</PolyStyle>
+</Style>
+</Pair>
+<Pair>
+<key>highlight</key>
+<Style>
+<LineStyle>
+<color>ff8888ff</color>
+<width>3</width>
+</LineStyle>
+<PolyStyle>
+<color>ff8888ff</color>
+</PolyStyle>
+</Style>
+</Pair>
+</StyleMap>
+<Placemark>
+<name>1AL/3-R/AC Minor</name>
+<visibility>1</visibility>
+<description><![CDATA[
+<b>Channel:</b> 1AL/3-R/AC Minor<br>
+<b>Flow Type:</b> Non Perennial<br>
+<b>Channel Type:</b> Minor<br>
+<b>Designed Discharge:</b> 25.00 cusecs<br>
+<b>Auth. Tail Discharge:</b> 3.04 cusecs <br>
+<b>Auth. Tail Gauge:</b> 1.00 ft<br>
+<b>Tail RD:</b> 21585.00 canal feet<br>
+<b>Length:</b> 4.317 canal miles<br>
+<b>Total Complaints:</b> 63<br>
+<b>Resolved Complaints:</b> 57
+ ( 90% )<br>
+]]></description>
+<styleUrl>#StyleChannelLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>
+ 71.00266880,28.92276728,0 71.00271958,28.91567031,0 71.00275338,28.91479015,0 71.00198015,28.91406224,0 70.99945913,28.91190772,0 70.99949139,28.90898323,0 70.99962811,28.90021095,0 70.99971980,28.89573738,0 71.01005036,28.88744401,0 71.01014542,28.87659085,0 71.00206458,28.87011239,0  
+</coordinates>
+</LineString>
+</Placemark>
+</Document>
+</kml>

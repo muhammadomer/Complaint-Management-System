@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<graph showNames="1" xAxisName="Date" yAxisName="Discharge" decimalPrecision="0" formatNumberScale="0"  ChartNoDataText='No data to display.' yAxisMinValue="0">
+<set name="5" value="0.00" color="336699"/>
+<set name="6" value="0.00" color="336699"/>
+<set name="7" value="0.00" color="336699"/>
+<set name="9" value="0.00" color="336699"/>
+<set name="10" value="0.00" color="336699"/>
+</graph>
